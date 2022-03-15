@@ -1,0 +1,3 @@
+- url: https://coronavirus.duke.edu/covid-testing/
+  output: shot.png
+  height: 800
